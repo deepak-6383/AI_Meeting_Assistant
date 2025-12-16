@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+
+sqlalchemy
+psycopg2-binary
+pgvector
+alembic
+
+python-dotenv
+pydantic
+faster-whisper
+redis
+rq          # or celery if you prefer, but you selected background worker = Yes
